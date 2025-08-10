@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "name": "grand-poitiers",
+      "mobility": "PARKING",
+      "clientType": "GRAND_POITIERS",
+      "url": "https://data.grandpoitiers.fr/data-fair/api/v1/datasets/mobilites-stationnement-des-parkings-en-temps-reel/lines"
+    }
+  ]
+}
